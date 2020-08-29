@@ -13,12 +13,8 @@ Open as preexisting project in your favorite IDE and choose between gradle or ma
 
 ## Running Tests
 
-To execute the tests either run `gradle test`, `mvn test` or run the tests from the IDE you are using.
+To execute the tests either run `./gradlew test`, `mvn test` or run the tests from the IDE you are using.
 
 ## Test Libraries Available from the Get-Go
-- jqwik 1.1.1
-- assertJ 3.11.1
-
-This repo was tested with eclipse and idea, if you encounter problems please open a issue or send a pull request.
-
-Have fun!
+- jqwik 1.3.1
+- assertJ 3.14.0
